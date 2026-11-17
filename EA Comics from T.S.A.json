@@ -1,0 +1,166 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "EA Comics from T.S.A.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1321448901055873085",
+    "type": "GuildPublicThread",
+    "categoryId": "1321448345645875250",
+    "category": "comics-archive",
+    "name": "EA Comics from T.S.A",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:08:41.5874332+04:00",
+  "messages": [
+    {
+      "id": "1321448901055873085",
+      "type": "Default",
+      "timestamp": "2024-12-25T16:06:09.345+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Comics from T.S.A",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "EA Comics from T.S.A.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321448976368664636",
+      "type": "Default",
+      "timestamp": "2024-12-25T16:06:27.301+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "EA Comics from T.S.A.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321448974699204630",
+          "url": "EA Comics from T.S.A.json_Files\\2024_05_05_0qg_Kleki-67348590a0760ccf.png",
+          "fileName": "2024_05_05_0qg_Kleki.png",
+          "fileSizeBytes": 134793
+        },
+        {
+          "id": "1321448974976290888",
+          "url": "EA Comics from T.S.A.json_Files\\2024_04_27_0u7_Kleki-97e4877a03d978b5.png",
+          "fileName": "2024_04_27_0u7_Kleki.png",
+          "fileSizeBytes": 101182
+        },
+        {
+          "id": "1321448975265562666",
+          "url": "EA Comics from T.S.A.json_Files\\2024_05_03_0z5_Kleki-d174b08889b8999b.png",
+          "fileName": "2024_05_03_0z5_Kleki.png",
+          "fileSizeBytes": 89529
+        },
+        {
+          "id": "1321448975605432341",
+          "url": "EA Comics from T.S.A.json_Files\\2024_05_01_0jm_Kleki-a5d864716b8904f2.png",
+          "fileName": "2024_05_01_0jm_Kleki.png",
+          "fileSizeBytes": 71315
+        },
+        {
+          "id": "1321448976133652490",
+          "url": "EA Comics from T.S.A.json_Files\\2024_04_29_014_Kleki-c57b82730eb881de.png",
+          "fileName": "2024_04_29_014_Kleki.png",
+          "fileSizeBytes": 136317
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

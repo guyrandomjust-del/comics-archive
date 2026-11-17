@@ -1,0 +1,155 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "EA Comics from Espustia.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1329407900942340208",
+    "type": "GuildPublicThread",
+    "categoryId": "1321448345645875250",
+    "category": "comics-archive",
+    "name": "EA Comics from Espustia",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:07:04.4579042+04:00",
+  "messages": [
+    {
+      "id": "1329407900942340208",
+      "type": "Default",
+      "timestamp": "2025-01-16T15:12:22.789+04:00",
+      "timestampEdited": "2025-01-16T15:12:31.775+04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "EA Comics from Espustia",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "EA Comics from Espustia.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1329407938703655014",
+          "url": "EA Comics from Espustia.json_Files\\kupa_gowna-4c44c42935836846.webp",
+          "fileName": "kupa_gowna.webp",
+          "fileSizeBytes": 119268
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1482229954535096380",
+      "type": "Default",
+      "timestamp": "2026-03-14T08:12:39.662+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "EA Comics from Espustia.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1482229953779990668",
+          "url": "EA Comics from Espustia.json_Files\\Untitled156-f8da54eff498c044.png",
+          "fileName": "Untitled156.png",
+          "fileSizeBytes": 149491
+        },
+        {
+          "id": "1482229954312671313",
+          "url": "EA Comics from Espustia.json_Files\\Untitled164_20240428134429-a6ddb8d1b6360d2f.png",
+          "fileName": "Untitled164_20240428134429.png",
+          "fileSizeBytes": 378305
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

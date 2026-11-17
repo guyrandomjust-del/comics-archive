@@ -1,0 +1,1258 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Simulation #42.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1321743803714895982",
+    "type": "GuildPublicThread",
+    "categoryId": "1321448345645875250",
+    "category": "comics-archive",
+    "name": "Simulation #42",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:07:26.4749956+04:00",
+  "messages": [
+    {
+      "id": "1321743803714895982",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:37:59.618+04:00",
+      "timestampEdited": "2024-12-26T11:38:16.902+04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "EA Comic made by Madding",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321743876364439677",
+          "url": "Simulation #42.json_Files\\image-1316ae1235fb7e87.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 237905
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744142971441152",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:39:20.503+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321744139749953589",
+          "url": "Simulation #42.json_Files\\image-d9ebfce1e19bb2d6.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 50933
+        },
+        {
+          "id": "1321744140106731552",
+          "url": "Simulation #42.json_Files\\SPOILER_image-2d305b1a6c21f015.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 50241
+        },
+        {
+          "id": "1321744140513443930",
+          "url": "Simulation #42.json_Files\\SPOILER_image-564a08fbaa4513ad.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 112510
+        },
+        {
+          "id": "1321744141012570144",
+          "url": "Simulation #42.json_Files\\SPOILER_image-ef42a30390c69064.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 42044
+        },
+        {
+          "id": "1321744141243121695",
+          "url": "Simulation #42.json_Files\\SPOILER_image-663c5a4cb2d6a2ea.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 29084
+        },
+        {
+          "id": "1321744141566349363",
+          "url": "Simulation #42.json_Files\\SPOILER_image-55fcd81bce9b16ed.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 22380
+        },
+        {
+          "id": "1321744141779992627",
+          "url": "Simulation #42.json_Files\\SPOILER_image-45c7ea73718f17c0.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 26908
+        },
+        {
+          "id": "1321744142014877737",
+          "url": "Simulation #42.json_Files\\SPOILER_image-f9be30fbde235d74.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 22156
+        },
+        {
+          "id": "1321744142300352575",
+          "url": "Simulation #42.json_Files\\SPOILER_image-ce80a7255894be9a.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 54665
+        },
+        {
+          "id": "1321744142686093312",
+          "url": "Simulation #42.json_Files\\SPOILER_image-5f27d48feecd36fb.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 132878
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744232406319147",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:39:41.826+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321744229638209546",
+          "url": "Simulation #42.json_Files\\SPOILER_image-cb4c5113a9f78122.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 94294
+        },
+        {
+          "id": "1321744229873221762",
+          "url": "Simulation #42.json_Files\\SPOILER_image-eafa83a092e9d2c6.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 82886
+        },
+        {
+          "id": "1321744230116360223",
+          "url": "Simulation #42.json_Files\\SPOILER_image-9a89df2467ff7452.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 32369
+        },
+        {
+          "id": "1321744230351110154",
+          "url": "Simulation #42.json_Files\\SPOILER_image-b8a2d1855bb8e552.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 30137
+        },
+        {
+          "id": "1321744230561091696",
+          "url": "Simulation #42.json_Files\\SPOILER_image-d4109347ce8e307b.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 59206
+        },
+        {
+          "id": "1321744230929924106",
+          "url": "Simulation #42.json_Files\\SPOILER_image-54e599c9e97469ec.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 192077
+        },
+        {
+          "id": "1321744231236112456",
+          "url": "Simulation #42.json_Files\\SPOILER_image-8b79ba857d30d6c3.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 276910
+        },
+        {
+          "id": "1321744231638761504",
+          "url": "Simulation #42.json_Files\\SPOILER_image-86e4cdce8670fe07.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 88464
+        },
+        {
+          "id": "1321744231924240526",
+          "url": "Simulation #42.json_Files\\SPOILER_image-840a56dd39fae345.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 116379
+        },
+        {
+          "id": "1321744232200929290",
+          "url": "Simulation #42.json_Files\\SPOILER_image-72ed5f427eaa94a8.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 142174
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744361335291954",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:40:12.565+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321744358889881661",
+          "url": "Simulation #42.json_Files\\SPOILER_image-85fca3d609f8c2c8.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 231461
+        },
+        {
+          "id": "1321744359154253825",
+          "url": "Simulation #42.json_Files\\SPOILER_image-04537bf7a697600f.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 227820
+        },
+        {
+          "id": "1321744359422431325",
+          "url": "Simulation #42.json_Files\\SPOILER_image-2d94e7f16bb531fe.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 205849
+        },
+        {
+          "id": "1321744359665827890",
+          "url": "Simulation #42.json_Files\\SPOILER_image-f43a5aed95ba1f24.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 132543
+        },
+        {
+          "id": "1321744359926005760",
+          "url": "Simulation #42.json_Files\\SPOILER_image-445aa4662349b3f1.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 116241
+        },
+        {
+          "id": "1321744360164823113",
+          "url": "Simulation #42.json_Files\\SPOILER_image-b877bf21a3d4369c.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 149240
+        },
+        {
+          "id": "1321744360416608296",
+          "url": "Simulation #42.json_Files\\SPOILER_image-ddec5b3f84d22eb3.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 186711
+        },
+        {
+          "id": "1321744360668397578",
+          "url": "Simulation #42.json_Files\\SPOILER_image-c6ac89aaac63c921.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 105829
+        },
+        {
+          "id": "1321744360873660456",
+          "url": "Simulation #42.json_Files\\SPOILER_image-879310fcf2cc0ef7.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 98918
+        },
+        {
+          "id": "1321744361146417163",
+          "url": "Simulation #42.json_Files\\SPOILER_image-417d3b8be9bb1f2d.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 276032
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744400270884895",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:40:21.848+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321744397901107270",
+          "url": "Simulation #42.json_Files\\SPOILER_image-3e6a1917456187c5.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 72163
+        },
+        {
+          "id": "1321744398165344277",
+          "url": "Simulation #42.json_Files\\SPOILER_image-470f2124a71d68f0.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 79460
+        },
+        {
+          "id": "1321744398425264220",
+          "url": "Simulation #42.json_Files\\SPOILER_image-becf8e8e3be129ce.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 80299
+        },
+        {
+          "id": "1321744398668664883",
+          "url": "Simulation #42.json_Files\\SPOILER_image-7e1aad9cf5e733de.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 45147
+        },
+        {
+          "id": "1321744398924513290",
+          "url": "Simulation #42.json_Files\\SPOILER_image-8325417139386dd1.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 81653
+        },
+        {
+          "id": "1321744399146684466",
+          "url": "Simulation #42.json_Files\\SPOILER_image-5566c3e734859355.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 45407
+        },
+        {
+          "id": "1321744399356530729",
+          "url": "Simulation #42.json_Files\\SPOILER_image-7c08ee8936deeacc.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 41631
+        },
+        {
+          "id": "1321744399578824795",
+          "url": "Simulation #42.json_Files\\SPOILER_image-a674e8a55c882925.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 51881
+        },
+        {
+          "id": "1321744399805190204",
+          "url": "Simulation #42.json_Files\\SPOILER_image-bc730eaa18ff6497.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 40022
+        },
+        {
+          "id": "1321744400098922579",
+          "url": "Simulation #42.json_Files\\SPOILER_image-c9b4b18d9e1aa43b.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 62761
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744419858157608",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:40:26.518+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321744417123602442",
+          "url": "Simulation #42.json_Files\\SPOILER_image-7a3fe2e80e1b3133.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 45174
+        },
+        {
+          "id": "1321744417484177478",
+          "url": "Simulation #42.json_Files\\SPOILER_image-7c8602be42992b07.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 36441
+        },
+        {
+          "id": "1321744417719189524",
+          "url": "Simulation #42.json_Files\\SPOILER_image-c9ef9723cf21e655.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 27377
+        },
+        {
+          "id": "1321744418000076810",
+          "url": "Simulation #42.json_Files\\SPOILER_image-ea119a773c570d38.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 42459
+        },
+        {
+          "id": "1321744418268774431",
+          "url": "Simulation #42.json_Files\\SPOILER_image-83ef6379a5e2e433.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 24555
+        },
+        {
+          "id": "1321744418562248764",
+          "url": "Simulation #42.json_Files\\SPOILER_image-706ecc01de5d3273.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 68830
+        },
+        {
+          "id": "1321744418826620938",
+          "url": "Simulation #42.json_Files\\SPOILER_image-3c539fc699788a3b.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 56155
+        },
+        {
+          "id": "1321744419082211338",
+          "url": "Simulation #42.json_Files\\SPOILER_image-2fea8628deed411a.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 49035
+        },
+        {
+          "id": "1321744419426275379",
+          "url": "Simulation #42.json_Files\\SPOILER_image-cc40a70d507326b8.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 53496
+        },
+        {
+          "id": "1321744419669409801",
+          "url": "Simulation #42.json_Files\\SPOILER_image-1b5138f8c8cdcd77.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 58696
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744447528108042",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:40:33.115+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321744444726317139",
+          "url": "Simulation #42.json_Files\\SPOILER_image-bc8f3141e560212c.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 57386
+        },
+        {
+          "id": "1321744444952678430",
+          "url": "Simulation #42.json_Files\\SPOILER_image-c91cd2d96a596f26.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 25245
+        },
+        {
+          "id": "1321744445221244959",
+          "url": "Simulation #42.json_Files\\SPOILER_image-f628e1e7dbd19319.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 49706
+        },
+        {
+          "id": "1321744445552459796",
+          "url": "Simulation #42.json_Files\\SPOILER_image-199be419388c0e4c.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 58806
+        },
+        {
+          "id": "1321744445837803573",
+          "url": "Simulation #42.json_Files\\SPOILER_image-7c919f396852531e.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 52759
+        },
+        {
+          "id": "1321744446101913632",
+          "url": "Simulation #42.json_Files\\SPOILER_image-c644bd79b89614a5.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 51715
+        },
+        {
+          "id": "1321744446450307092",
+          "url": "Simulation #42.json_Files\\SPOILER_image-f7901ce3693857a2.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 24932
+        },
+        {
+          "id": "1321744446672470051",
+          "url": "Simulation #42.json_Files\\SPOILER_image-8f82494dc05462cc.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 113349
+        },
+        {
+          "id": "1321744446932647936",
+          "url": "Simulation #42.json_Files\\SPOILER_image-9c01955351276eea.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 99389
+        },
+        {
+          "id": "1321744447205019684",
+          "url": "Simulation #42.json_Files\\SPOILER_image-3078b065ce50b9a9.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 113410
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744475843723286",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:40:39.866+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321744473025413130",
+          "url": "Simulation #42.json_Files\\SPOILER_image-ca8c1a941abe208c.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 118286
+        },
+        {
+          "id": "1321744473251647518",
+          "url": "Simulation #42.json_Files\\SPOILER_image-05fe1d643357e704.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 95864
+        },
+        {
+          "id": "1321744473604096073",
+          "url": "Simulation #42.json_Files\\SPOILER_image-b5ca51977dd3be6c.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 23472
+        },
+        {
+          "id": "1321744473889177660",
+          "url": "Simulation #42.json_Files\\SPOILER_image-7be92a44e055897e.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 116685
+        },
+        {
+          "id": "1321744474283704352",
+          "url": "Simulation #42.json_Files\\SPOILER_image-b13add6441876699.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 79326
+        },
+        {
+          "id": "1321744474581241876",
+          "url": "Simulation #42.json_Files\\SPOILER_image-143d023b0be05329.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 114084
+        },
+        {
+          "id": "1321744474845741056",
+          "url": "Simulation #42.json_Files\\SPOILER_image-7fae8b8864bddb89.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 210438
+        },
+        {
+          "id": "1321744475164512307",
+          "url": "Simulation #42.json_Files\\SPOILER_image-daea8c395077ef87.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 222711
+        },
+        {
+          "id": "1321744475453915209",
+          "url": "Simulation #42.json_Files\\SPOILER_image-3c48b04caf721296.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 96645
+        },
+        {
+          "id": "1321744475680411648",
+          "url": "Simulation #42.json_Files\\SPOILER_image-55009b42e22f0eb3.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 221146
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744505799704587",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:40:47.008+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321744503291379742",
+          "url": "Simulation #42.json_Files\\SPOILER_image-a6dda6a1b465ad28.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 226840
+        },
+        {
+          "id": "1321744503542906890",
+          "url": "Simulation #42.json_Files\\SPOILER_image-e35fc6d827d7bd38.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 149494
+        },
+        {
+          "id": "1321744503765467187",
+          "url": "Simulation #42.json_Files\\SPOILER_image-ceaa1273b89ca10f.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 111825
+        },
+        {
+          "id": "1321744503983443969",
+          "url": "Simulation #42.json_Files\\SPOILER_image-1bd34506781174d4.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 119625
+        },
+        {
+          "id": "1321744504268521515",
+          "url": "Simulation #42.json_Files\\SPOILER_image-3c03fd12b83098b8.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 126972
+        },
+        {
+          "id": "1321744504499470356",
+          "url": "Simulation #42.json_Files\\SPOILER_image-11f10dea2e45454c.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 120761
+        },
+        {
+          "id": "1321744504751001652",
+          "url": "Simulation #42.json_Files\\SPOILER_image-e81120d3caa8097b.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 113938
+        },
+        {
+          "id": "1321744504977358878",
+          "url": "Simulation #42.json_Files\\SPOILER_image-5bbfd253c5c53bf3.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 131147
+        },
+        {
+          "id": "1321744505296257065",
+          "url": "Simulation #42.json_Files\\SPOILER_image-738e2e0d2dafc69b.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 84178
+        },
+        {
+          "id": "1321744505682268190",
+          "url": "Simulation #42.json_Files\\SPOILER_image-098b12499f8600fa.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 137612
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744530600624210",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:40:52.921+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321744527723073606",
+          "url": "Simulation #42.json_Files\\SPOILER_image-96b2b8091b6aaf15.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 90650
+        },
+        {
+          "id": "1321744527966470164",
+          "url": "Simulation #42.json_Files\\SPOILER_image-26d4e9063accda84.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 79355
+        },
+        {
+          "id": "1321744528239104042",
+          "url": "Simulation #42.json_Files\\SPOILER_image-054e0c70921202e1.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 128880
+        },
+        {
+          "id": "1321744528557867068",
+          "url": "Simulation #42.json_Files\\SPOILER_image-dd104addc46adcdc.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 138232
+        },
+        {
+          "id": "1321744528880963615",
+          "url": "Simulation #42.json_Files\\SPOILER_image-d605159f4e5582c7.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 157181
+        },
+        {
+          "id": "1321744529262379032",
+          "url": "Simulation #42.json_Files\\SPOILER_image-c421e54560ecf9d6.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 48807
+        },
+        {
+          "id": "1321744529627418645",
+          "url": "Simulation #42.json_Files\\SPOILER_image-8733635f600cb9a2.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 52675
+        },
+        {
+          "id": "1321744529971216395",
+          "url": "Simulation #42.json_Files\\SPOILER_image-7bed1587ac86b8cc.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 60214
+        },
+        {
+          "id": "1321744530260627536",
+          "url": "Simulation #42.json_Files\\SPOILER_image-125475290a3c3b99.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 116424
+        },
+        {
+          "id": "1321744530550030399",
+          "url": "Simulation #42.json_Files\\SPOILER_image-02bc295506f027eb.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 50508
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744541924982806",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:40:55.621+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321744541753282560",
+          "url": "Simulation #42.json_Files\\SPOILER_image-a77a4facc247f391.png",
+          "fileName": "SPOILER_image.png",
+          "fileSizeBytes": 111823
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321744577144819794",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:41:04.018+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(I apologise but I don’t know how to unspoiler these images)",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Simulation #42.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 12
+}

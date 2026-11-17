@@ -1,0 +1,160 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "EA Comics from Asteria.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1482230571928391852",
+    "type": "GuildPublicThread",
+    "categoryId": "1321448345645875250",
+    "category": "comics-archive",
+    "name": "EA Comics from Asteria",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:06:54.2074282+04:00",
+  "messages": [
+    {
+      "id": "1482230571928391852",
+      "type": "Default",
+      "timestamp": "2026-03-14T08:15:06.86+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Asterian Comics",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "EA Comics from Asteria.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1482230827579347096",
+      "type": "Default",
+      "timestamp": "2026-03-14T08:16:07.812+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "EA Comics from Asteria.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1482230826371518547",
+          "url": "EA Comics from Asteria.json_Files\\May_1st_2025-66c614d9715f86d8.png",
+          "fileName": "May_1st_2025.png",
+          "fileSizeBytes": 860994
+        },
+        {
+          "id": "1482230826732097597",
+          "url": "EA Comics from Asteria.json_Files\\May_10th_2025-018c5c3c073d7554.png",
+          "fileName": "May_10th_2025.png",
+          "fileSizeBytes": 978888
+        },
+        {
+          "id": "1482230827080482998",
+          "url": "EA Comics from Asteria.json_Files\\April_26th_2025-1870019081042eeb.png",
+          "fileName": "April_26th_2025.png",
+          "fileSizeBytes": 301213
+        },
+        {
+          "id": "1482230827336208496",
+          "url": "EA Comics from Asteria.json_Files\\Eye_contact-2341d152efd74603.png",
+          "fileName": "Eye_contact.png",
+          "fileSizeBytes": 337058
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}
